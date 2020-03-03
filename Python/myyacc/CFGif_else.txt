@@ -1,4 +1,0 @@
-S::=iSeS
-S::=iS
-S::=S;S
-S::=a

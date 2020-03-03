@@ -1,0 +1,6 @@
+S::=aA
+S::=bB
+A::=cA
+A::=d
+B::=cB
+B::=d

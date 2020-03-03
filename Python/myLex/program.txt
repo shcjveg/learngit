@@ -1,0 +1,6 @@
+def f ( test ) :
+    temp1 = None
+    if test > 0 :
+        return 123
+    else :
+        return False
